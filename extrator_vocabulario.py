@@ -36,3 +36,6 @@ class extrator_vocabulario:
             bag_of_words.append(1 if palavra in documento else 0)
         
         print(bag_of_words)
+
+
+# Teste
