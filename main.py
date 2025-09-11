@@ -9,3 +9,6 @@ extrator = extrator_vocabulario(caminho_arquivo, caminho_saida)
 extrator.extrair_vocabulario()
 
 extrator.gerar_bag_of_words(caminho_documento)
+
+
+# Teste
